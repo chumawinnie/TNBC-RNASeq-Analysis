@@ -28,11 +28,11 @@ The RNA-Seq data used for this project was obtained from the E-MTAB-4993 dataset
 
 ### Preprocessing Tools
 
-- **FASTQC**: For quality control of raw sequencing data.
-- **FASTP**: For trimming and filtering low-quality reads.
-- **HISAT2**: For alignment to the reference genome.
-- **SamBamba**: For deduplication.
-- **StringTie**: For transcript assembly and quantification.
+- **[FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)**: For quality control of raw sequencing data.
+- **[FASTP](https://github.com/OpenGene/fastp)**: For trimming and filtering low-quality reads.
+- **[HISAT2](http://daehwankimlab.github.io/hisat2/)**: For alignment to the reference genome.
+- **[SamBamba](http://lomereiter.github.io/sambamba/)**: For deduplication.
+- **[StringTie](http://ccb.jhu.edu/software/stringtie/)**: For transcript assembly and quantification.
 
 ---
 
@@ -157,7 +157,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The authors acknowledge the use of publicly available datasets and tools for RNA-Seq analysis.
 - Special thanks to collaborators and mentors who contributed to the project.
 
+---
 
+## References 📚💡
 
-
+- [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+- [FASTP](https://github.com/OpenGene/fastp)
+- [HISAT2](http://daehwankimlab.github.io/hisat2/)
+- [SamBamba](http://lomereiter.github.io/sambamba/)
+- [StringTie](http://ccb.jhu.edu/software/stringtie/)
 
